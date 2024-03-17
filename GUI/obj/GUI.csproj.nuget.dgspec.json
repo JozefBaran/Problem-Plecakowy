@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jozef\\Desktop\\.net i java\\GUI\\GUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jozef\\Desktop\\.net i java\\GUI\\GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jozef\\Desktop\\.net i java\\GUI\\GUI.csproj",
+        "projectName": "GUI",
+        "projectPath": "C:\\Users\\jozef\\Desktop\\.net i java\\GUI\\GUI.csproj",
+        "packagesPath": "C:\\Users\\jozef\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jozef\\Desktop\\.net i java\\GUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jozef\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\jozef\\Desktop\\.net i java\\Problem Plecakowy\\Problem Plecakowy.csproj": {
+                "projectPath": "C:\\Users\\jozef\\Desktop\\.net i java\\Problem Plecakowy\\Problem Plecakowy.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jozef\\Desktop\\.net i java\\Problem Plecakowy\\Problem Plecakowy.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jozef\\Desktop\\.net i java\\Problem Plecakowy\\Problem Plecakowy.csproj",
+        "projectName": "Problem Plecakowy",
+        "projectPath": "C:\\Users\\jozef\\Desktop\\.net i java\\Problem Plecakowy\\Problem Plecakowy.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
